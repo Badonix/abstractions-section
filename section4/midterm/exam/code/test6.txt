@@ -1,0 +1,3 @@
+4 bc
+bbbb bbbc bbcb bbcc bcbb bcbc bccb bccc cbbb cbbc cbcb cbcc ccbb ccbc cccb cccc 
+
