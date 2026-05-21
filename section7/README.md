@@ -6,3 +6,4 @@
 
 [LRU Cache](https://leetcode.com/problems/lru-cache/)
 
+[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
